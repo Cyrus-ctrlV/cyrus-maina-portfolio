@@ -938,7 +938,7 @@
 <footer>
   <span>© 2026 Cyrus Maina</span>
   <span>Nairobi, Kenya</span>
-  <span>Built with ♥ &amp; data</span>
+  <span>Built by GOAT Maina; data</span>
 </footer>
 
 <script>
